@@ -1,4 +1,4 @@
-# Sustainability Actions App
+# Sustainability Actions
 
 This project implements the assignment:
 
@@ -197,3 +197,4 @@ Method: DELETE
 URL: http://localhost:8000/api/actions/1/
 
 Returns HTTP 204 No Content on success.
+
